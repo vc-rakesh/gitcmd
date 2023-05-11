@@ -1,0 +1,5 @@
+These are the points we are going to learn today.
+- conventional commits
+- perfect commit in git
+- change log generation using standard-version
+- git merge vs rebase
