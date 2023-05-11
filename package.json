@@ -1,11 +1,15 @@
 {
   "name": "gitcmd",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is used for git tutorial",
   "main": "calc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "author": "Rakesh Sojitra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
