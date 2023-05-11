@@ -11,8 +11,6 @@ let result;
 
 // using if...else if... else
 if (operator === "+") {
-  result = number1 * number2;
-} else if (operator === "-") {
   result = number1 + number2;
 } else if (operator === "*") {
   result = number1 / number2;
